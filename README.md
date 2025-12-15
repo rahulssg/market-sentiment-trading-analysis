@@ -135,7 +135,7 @@ The project includes:
 
 - Ensure required libraries are installed (pandas, matplotlib, seaborn)
 
-- Open analysis.ipynb in Jupyter Notebook or Google Colab
+- Open analysis.ipynb in Jupyter Notebook or Google Colab (**Colab Link:** https://colab.research.google.com/drive/1Q97fUFPi58ICNzLdpiQYTK-t1uVNLy2j?usp=sharing)
 
 - Ensure CSV files are present in the csv_files/ directory
 

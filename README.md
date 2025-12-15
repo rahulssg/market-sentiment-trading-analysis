@@ -77,6 +77,10 @@ Both datasets were merged using date alignment to enable sentiment-based analysi
 
 # **📊 Key Findings & Insights**
 
+
+![Sentiment Analysis Visualisation](https://github.com/rahulssg/market-sentiment-trading-analysis/blob/master/outputs/Sentiment%20Analysis%20Results.png?raw=true)
+
+
 ## **Finding 1: Profitability and volatility vary significantly across market sentiments**
 
 From the profitability and risk analysis, Extreme Greed shows the highest average Closed PnL (around $67.9), followed by Fear (around $54.3). However, the highest risk, measured through standard deviation, appears during Extreme Fear (about 1136), closely followed by Greed (around 1116). In contrast, the Neutral sentiment phase has the lowest volatility at around 517.
